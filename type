@@ -1,0 +1,11 @@
+<?php
+
+$result=""
+
+for{i=0,i<6,i==);
+
+result=(i+1) .回目のさようなら. PHP EOL;
+
+print= $result
+
+?>
